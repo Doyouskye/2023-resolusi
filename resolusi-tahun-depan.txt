@@ -3,3 +3,4 @@ RESOLUSI 2023
 - Tambah ilmu 
 - Menabung
 - Beli motor baru
+- dll
